@@ -13,7 +13,7 @@ Fortaleza, Ceará
 ### Perfil Profissional
 * Atuação de 4 anos no desenvolvimento de sistemas full-stack com foco no ecossistema Microsoft e interfaces modernas.
 * Desenvolvedora Pleno na Credimil, focada na migração de arquiteturas para .NET 10 e C# 14.
-* Graduanda de MBA em Inteligência Artificial e Data Science.
+* Pós-graduada (MBA) em Inteligência Artificial Generativa e Data Science.
 
 ---
 
